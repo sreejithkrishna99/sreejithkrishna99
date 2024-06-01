@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sreejith Naveen</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software Developer</h3>
 
 - 📫 How to reach me **sreejith.naveen99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sreejith naveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreejith naveen" height="30" width="40" /></a>
 <a href="https://instagram.com/sreejith_gowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sreejith_gowda" height="30" width="40" /></a>
 </p>
 
